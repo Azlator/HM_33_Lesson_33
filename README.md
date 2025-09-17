@@ -1,2 +1,2 @@
-# HM_33_Lesson_33_-_-
+# HM_33_Lesson_33
 https://confluence.leantech.ai/x/_QB-/
