@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test message
+=======
+pulled text
+test message
+>>>>>>> eaa15fc8bfa40e2a9c9ad2c3451b3580a7983348
